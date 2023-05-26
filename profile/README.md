@@ -1,12 +1,30 @@
-## Hi there 👋
+# 情報工学科2023にようこそ👍
 
-<!--
+情報工学科2023に参加する場合は★[こちら](https://gist.github.com/Mr-SuperInsane/83eaa384b96f47fd140d467096deafa2)★  
 
-**Here are some ideas to get you started:**
+参加者はPrivateまたはPublicで新規リポジトリを作成し友人同士のソースコードの共有も可能です(コミット名の指定はありません)  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# プログラミング入門演習1️⃣
+
+chapter3以降  
+
+プログラミング入門演習1の演習問題のソースコード一覧は★[こちら](https://github.com/OECU2023/CPP)★
+
+## 使用上の注意点
+
+- scanf関数を使用する場合はSDLチェックを無効にする必要があります。
+
+## ソースコードに誤りがあった場合
+
+- ソースコードに不備などがありましたらIssuesにて[New Issue]でご指摘お願いします。  
+- 参加者の場合はコミット名を継承し[Extended description]にて変更点を記述してください。
+
+## ソースコードに関して
+
+- ソースコードの動作を100%保証することはできませんので使用は自己責任でお願いします。
+- ソースコードの再配布/転載を許可します。
+
+# プログラミング入門演習2️⃣
+
+プログラミング入門演習2の演習問題のソースコードは現在準備中です。しばらくお待ち下さい。
+
