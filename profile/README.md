@@ -1,6 +1,6 @@
-# 📗情報工学科2023にようこそ👍
+# 📗CPP2023にようこそ
 
-情報工学科2023に参加する場合は★[こちら](https://gist.github.com/Mr-SuperInsane/83eaa384b96f47fd140d467096deafa2)★  
+CPP2023に参加する場合は★[こちら](https://gist.github.com/Mr-SuperInsane/83eaa384b96f47fd140d467096deafa2)★  
 
 参加者はPrivateまたはPublicで新規リポジトリを作成し友人同士のソースコードの共有も可能です(コミット名の指定はありません)  
 
