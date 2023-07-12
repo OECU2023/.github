@@ -8,8 +8,6 @@ CPP2023に参加する場合は★[こちら](https://gist.github.com/Mr-SuperIn
 
 プログラミング入門演習1/2の演習問題のソースコード一覧は★[こちら](https://github.com/OECU2023/CPP)★  
 
-chapter3以降のみ
-
 ## 使用上の注意点
 
 - scanf関数を使用する場合はSDLチェックを無効にする必要があります。
